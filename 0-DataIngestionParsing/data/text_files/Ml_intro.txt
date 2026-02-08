@@ -1,0 +1,13 @@
+Machine Learning (ML) is a fundamental branch of artificial intelligence that focuses on enabling computers to learn from data and make decisions or predictions without being explicitly programmed for every task.
+
+In machine learning, algorithms analyze historical data to identify patterns, relationships, and trends that help them generalize to new and unseen data.
+
+Machine learning techniques are commonly divided into supervised learning, unsupervised learning, semi-supervised learning, and reinforcement learning, each designed to solve different types of problems such as classification, regression, clustering, and control.
+
+Some widely used machine learning algorithms include linear regression, decision trees, support vector machines, k-nearest neighbors, neural networks, and ensemble models.
+
+The machine learning process usually involves data collection, data cleaning, feature selection, model training, performance evaluation, and deployment.
+
+Machine learning is used in many real-world applications such as recommendation systems, image and speech recognition, fraud detection, healthcare diagnosis, autonomous vehicles, and predictive analytics.
+
+As data continues to grow and computing power increases, machine learning has become a key technology driving intelligent systems that can adapt, learn, and improve over time.

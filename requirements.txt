@@ -1,0 +1,38 @@
+# Core LangChain / orchestration
+langchain
+langchain-community
+langchain-openai
+langchain-groq
+langgraph
+langchain-experimental
+
+
+
+# Vector stores & retrieval
+faiss-cpu
+chromadb
+rank_bm25
+
+# Embeddings / tokenization
+sentence-transformers
+langchain-huggingface
+tiktoken
+
+# Data & files
+pypdf
+pymupdf
+pdfminer.six
+python-docx
+docx2txt
+unstructured>=0.12.5
+
+# Data handling & utils
+pandas
+numpy==2.3.3
+openpyxl
+jq
+matplotlib
+wikipedia
+python-dotenv
+
+ollama
