@@ -1,5 +1,6 @@
 # Core LangChain / orchestration
 langchain
+langchain-core
 langchain-community
 langchain-openai
 langchain-groq
@@ -36,3 +37,4 @@ wikipedia
 python-dotenv
 
 ollama
+flask
